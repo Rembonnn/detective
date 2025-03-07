@@ -1,6 +1,6 @@
 <?php
 
-use NunoMaduro\SkeletonPhp\Example;
+use Rembon\Detective\Example;
 
 it('foo', function (): void {
     $example = new Example;
